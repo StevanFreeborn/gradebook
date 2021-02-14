@@ -1,4 +1,5 @@
-﻿using System;
+﻿// This is a new comment.
+using System;
 using System.Collections.Generic;
 
 namespace GradeBook
